@@ -1,0 +1,24 @@
+Input,Maths,Physics,Chemistry,Philosophy,Further Maths,German,Biology,Computer Science,Economics,OTHER
+"Maths, Physics, Philosophy, Further Maths",1,1,0,1,1,0,0,0,0,0
+"Maths, Physics, German, Further Maths",1,1,0,0,1,1,0,0,0,0
+"Maths, Chemistry, Physics, Further Maths",1,1,1,0,1,0,0,0,0,0
+"Maths, Chemistry, Further Maths",1,0,1,0,1,0,0,0,0,0
+"Biology, Chemistry, Maths",1,0,1,0,0,0,1,0,0,0
+"Economics, Further Maths, Maths, OTHER",1,0,0,0,1,0,0,0,1,1
+"Chemistry, Further Maths, Maths, Physics, OTHER",1,1,1,0,1,0,0,0,0,1
+"Biology, Computer Science, Geography, OTHER",0,0,0,0,0,0,1,1,0,1
+"Chemistry, Computer Science, Maths",1,0,1,0,0,0,0,1,0,0
+"Computer Science, Further Maths, Philosophy, OTHER",1,0,0,1,1,0,0,1,0,1
+"Chemistry, Economics, Maths",1,0,1,0,0,0,0,0,1,0
+"Philosophy, Physics, OTHER",0,1,0,1,0,0,0,0,0,1
+"Biology, Chemistry, Maths, Physics",1,1,1,0,0,0,1,0,0,0
+"Geography, Maths, OTHER",1,0,0,0,0,0,0,0,0,1
+"Further Maths, Maths, Physics",1,1,0,0,1,0,0,0,0,0
+"Economics, Further Maths, Maths",1,0,0,0,1,0,0,0,1,0
+"Maths, Physics, OTHER",1,1,0,0,0,0,0,0,0,1
+"Biology, Economics, Maths",1,0,0,0,0,0,1,0,1,0
+"Biology, Computer Science, Maths",1,0,0,0,0,0,1,1,0,0
+"Biology, Computer Science, Geography",0,0,0,0,0,0,1,1,0,0
+"Computer Science, Further Maths, Maths",1,0,0,0,1,0,0,1,0,0
+"Computer Science, Maths, Physics",1,1,0,0,0,0,0,1,0,0
+"Computer Science, Further Maths, Maths",1,0,0,0,1,0,0,1,0,0
